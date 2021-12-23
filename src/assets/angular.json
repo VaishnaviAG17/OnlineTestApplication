@@ -1,0 +1,165 @@
+{
+    "angular": [{
+            "questionText": "Which of the following is correct about TypeScript?",
+            "options": [{
+                    "text": "All of the above",
+                    "correct": true
+                },
+                {
+                    "text": "Angular is based on typescipt"
+                },
+                {
+                    "text": "This is the superset of javascript"
+                },
+                {
+                    "text": "TypeScript is maintained by Microsoft"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "What is .subscribe?",
+            "options": [{
+                    "text": "Streams data in asynchronously"
+                },
+                {
+                    "text": "Streams data in synchronously"
+                },
+                {
+                    "text": "None of above"
+                },
+                {
+                    "text": "Both",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Which of the following is true about orderby filter?",
+            "options": [{
+                    "text": "Use classes."
+                },
+                {
+                    "text": "orderby filter orders the array based on provided criteria.",
+                    "correct": true
+                },
+                {
+                    "text": "Use enums."
+                },
+                {
+                    "text": "Use async/await."
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Who is sometimes called as father of Angularjs?",
+            "options": [{
+                    "text": "Bred green"
+                },
+                {
+                    "text": "Misko Havery",
+                    "correct": true
+                },
+                {
+                    "text": "John"
+                },
+                {
+                    "text": "Breed"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "Which of the following statement is correct for AngularJS",
+            "options": [{
+                    "text": "AngularJS is a JavaScript framework",
+                    "correct": true
+                },
+                {
+                    "text": "destructor"
+                },
+                {
+                    "text": "import"
+                },
+                {
+                    "text": "subscribe"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "Which is NOT an access modifier?",
+            "options": [{
+                    "text": "private"
+                },
+                {
+                    "text": "protected"
+                },
+                {
+                    "text": "public"
+                },
+                {
+                    "text": "async",
+                    "correct": true
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "Which keyword allows us to share information between files in TypeScript?",
+            "options": [{
+                    "text": "import"
+                },
+                {
+                    "text": "export",
+                    "correct": true
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "constructor"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "Which is an array method to generate a new array based on a condition?",
+            "options": [{
+                    "text": "filter",
+                    "correct": true
+                },
+                {
+                    "text": "map"
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "enum"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "On which of the Architectural pattern AngularJS is based?",
+            "options": [{
+                    "text": "MVVM Architectural pattern",
+                    "correct": true
+                },
+                {
+                    "text": "Accessors"
+                },
+                {
+                    "text": "Destructuring"
+                },
+                {
+                    "text": "Arrow function"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}
